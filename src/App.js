@@ -9,7 +9,6 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
-  console.log('API Key:', API_KEY);
 
   useEffect(() => {
     document.title = 'Weather App';
