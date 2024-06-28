@@ -10,7 +10,6 @@ The Weather App is a simple React application that fetches and displays weather 
 - Shows city name, temperature, humidity, and weather condition
 - Uses multiple React components
 - Utilizes `useState`, `useEffect`, and props for state management and data passing
-- Axios for making HTTP requests
 - Basic user interface with a heading, input field, and weather details
 
 ## Getting Started
