@@ -69,15 +69,6 @@ The Weather App is a simple React application that fetches and displays weather 
 - `src/index.js`: Entry point of the React application.
 - `public/index.html`: HTML template with the browser title set to "Weather App".
 
-### Example Commit Messages
-
-- `Initialize project with basic structure`
-- `Add functionality to fetch and display current weather data`
-- `Fix issue with incorrect temperature display`
-- `Improve UI styling for weather information display`
-- `Add README file with project overview and setup instructions`
-- `Refactor API call logic for better readability`
-
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
